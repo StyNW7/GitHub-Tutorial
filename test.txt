@@ -1,2 +1,3 @@
 Test:
-- Kata1
+- Kata2
+- Kata3
