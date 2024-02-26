@@ -1,8 +1,11 @@
-#include <stdio.h>
+#include <bits/stdc++.h>
+
+using namespace std;
 
 int main(){
 
-  printf ("Hello World");
+  // Code goes here...
   
   return 0;
+
 }
