@@ -1,7 +1,12 @@
-# Hello-World
-This is just a tutorial
+# GitHub Tutorial Notes
+Just a personal notes on how to use GitHub :)
 
-Hello I'm a beginner, I want to learn more about code through this Github Website.
-I want to get out of my comfort zone and learn new things.
+## GitHub Terms
 
-Thanks
+### Commit
+### Push / Pull
+### Branch
+### Merge
+### Fork
+
+Thankss :)
